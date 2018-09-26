@@ -1,1 +1,1 @@
-Implementação de um jogo da velha em REACT seguindo o [tutorial](https://reactjs.org/tutorial/tutorial.html).
+Implementação de um jogo da velha em REACT seguindo este [tutorial](https://reactjs.org/tutorial/tutorial.html).
